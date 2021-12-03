@@ -52,3 +52,9 @@ LastWrite Time 2018-08-04 18:49:06Z
   VMware Tools;C:\Users\Rick\AppData\Local\Temp\{4F3742E0-700E-431D-BF19-5B27ED98E8F1}~setup\VMware Tools64.msi
   VMware Tools;C:\Users\Rick\AppData\Local\Temp\{4F3742E0-700E-431D-BF19-5B27ED98E8F1}~setup\VMware Tools64.msi 
   
+  Uninstall
+Microsoft\Windows\CurrentVersion\Uninstall
+
+2018-06-02 09:29:39Z
+  VMware Tools v.10.0.0.2977863
+  
