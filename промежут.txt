@@ -42,3 +42,13 @@ MAL_RANSOM_COVID19_Apr20_1 - некоторый тег, который помо�
       "read program for more information."
 
 более подробный отчет, по зловреду см в отдельном файле. 
+
+
+
+Classes\Installer\Products
+LastWrite Time 2018-08-04 18:49:06Z
+
+2018-06-02 09:29:40Z
+  VMware Tools;C:\Users\Rick\AppData\Local\Temp\{4F3742E0-700E-431D-BF19-5B27ED98E8F1}~setup\VMware Tools64.msi
+  VMware Tools;C:\Users\Rick\AppData\Local\Temp\{4F3742E0-700E-431D-BF19-5B27ED98E8F1}~setup\VMware Tools64.msi 
+  
