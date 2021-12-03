@@ -58,3 +58,7 @@ Microsoft\Windows\CurrentVersion\Uninstall
 2018-06-02 09:29:39Z
   VMware Tools v.10.0.0.2977863
   
+  
+  
+ 2018-06-02 09:28:50 -------------- mft таблица, vmware был создан(mft)
+  
