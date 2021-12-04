@@ -147,3 +147,4 @@ Offset(P)          Proto    Local Address                  Foreign Address      
 0x7eab4cf0         TCPv4    -:0                            56.219.196.26:0      CLOSED           2836     BitTorrent.exe
 0x7fb9cec0         UDPv4    192.168.202.131:1900           *:*                                   164      svchost.exe    2018-08-04 19:28:42 UTC+0000
 0x7fb9d430         UDPv4    127.0.0.1:58341                *:*                                   164      svchost.exe    2018-08-04 19:28:42 UTC+0000
+
