@@ -117,7 +117,6 @@ Base                             Size          LoadCount Path
 0x00000000751a0000             0x8000                0x1 C:\Windows\SYSTEM32\wow64cpu.dll
 
 
-
 --------
 PS C:\Users\user\volal> .\vol.exe -f .\Task.vmem dlldump --profile=Win7SP1x64 -D .\dumps\ -p 3720
 Volatility Foundation Volatility Framework 2.6
