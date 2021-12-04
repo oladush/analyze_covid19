@@ -84,7 +84,6 @@ Offset(V)          Name                    PID   PPID   Thds     Hnds   Sess  Wo
 0xfffffa801a6643d0 conhost.exe            2420    348      0       30      0      0 2018-08-04 19:34:22 UTC+0000   2018-08-04 19:34:22 UTC+0000
 
 
----------------------------------------что то интересное 
 PS C:\Users\user\volal> .\vol.exe -f .\Task.vmem dlllist --profile=Win7SP1x64 -p 3820
 Volatility Foundation Volatility Framework 2.6
 ************************************************************************
